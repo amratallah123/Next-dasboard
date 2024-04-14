@@ -1,4 +1,8 @@
-## Next.js App Router Course - Starter
+## Next.js App Router Course - Dashboard
+
+* https://next-dasboard.vercel.app/dashboard
+
+
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
